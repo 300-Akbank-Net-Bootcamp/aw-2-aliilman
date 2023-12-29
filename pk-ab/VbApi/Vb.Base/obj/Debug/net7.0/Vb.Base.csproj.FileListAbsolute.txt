@@ -1,0 +1,11 @@
+C:\Users\PC_4232\Desktop\pk-ab-main\VbApi\Vb.Base\bin\Debug\net7.0\Vb.Base.deps.json
+C:\Users\PC_4232\Desktop\pk-ab-main\VbApi\Vb.Base\bin\Debug\net7.0\Vb.Base.dll
+C:\Users\PC_4232\Desktop\pk-ab-main\VbApi\Vb.Base\bin\Debug\net7.0\Vb.Base.pdb
+C:\Users\PC_4232\Desktop\pk-ab-main\VbApi\Vb.Base\obj\Debug\net7.0\Vb.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC_4232\Desktop\pk-ab-main\VbApi\Vb.Base\obj\Debug\net7.0\Vb.Base.AssemblyInfoInputs.cache
+C:\Users\PC_4232\Desktop\pk-ab-main\VbApi\Vb.Base\obj\Debug\net7.0\Vb.Base.AssemblyInfo.cs
+C:\Users\PC_4232\Desktop\pk-ab-main\VbApi\Vb.Base\obj\Debug\net7.0\Vb.Base.csproj.CoreCompileInputs.cache
+C:\Users\PC_4232\Desktop\pk-ab-main\VbApi\Vb.Base\obj\Debug\net7.0\Vb.Base.dll
+C:\Users\PC_4232\Desktop\pk-ab-main\VbApi\Vb.Base\obj\Debug\net7.0\refint\Vb.Base.dll
+C:\Users\PC_4232\Desktop\pk-ab-main\VbApi\Vb.Base\obj\Debug\net7.0\Vb.Base.pdb
+C:\Users\PC_4232\Desktop\pk-ab-main\VbApi\Vb.Base\obj\Debug\net7.0\ref\Vb.Base.dll
